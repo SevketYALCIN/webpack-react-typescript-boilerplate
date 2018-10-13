@@ -1,21 +1,17 @@
 # webpack-react-typescript-boilerplate
 
-Webpack configuration boilerplate for React / Typescript, including:
+📦 Webpack boilerplate for React with Typescript
+
+# Includes
 
 - Typescript loader
-- Sass -> Css loader
+- Sass loader
 - Image loader
 - Bundling into HTML plugin
 - Dev server with hot reloading
 
-To start the development environment, run:
+# To run on your computer
 
-```
-npm start
-```
-
-To build and generate static files, run:
-
-```
-npm run build
-```
+- Clone this repo
+- Edit package.json (project name)
+- `npm start`
